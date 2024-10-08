@@ -142,7 +142,7 @@ List<Map<String, String>> videos = [
           decoration: BoxDecoration(
             color: Colors.white, // Background color same as scaffold
             border: Border.all(color: Colors.grey), // Border color
-            borderRadius: BorderRadius.circular(8.0), // Border radius for rounded corners
+            borderRadius: BorderRadius.circular(10.0), // Border radius for rounded corners
           ),
           child: ClipRRect(
             borderRadius: BorderRadius.circular(8.0), // Same border radius for the clip effect
